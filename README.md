@@ -11,13 +11,13 @@ Echo abc
 ```
 
 ---
-###Batch Commands
+###Batch commands
 
 ---
-###Batch File
+###Batch file
 
 ---
-###Some Useful Batch Files
+###Some useful batch files
 
 ---
-###Windows Task Scheduler
+###Windows task scheduler
