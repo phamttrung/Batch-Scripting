@@ -12,12 +12,8 @@ Echo abc
 
 ---
 ###DOS commands
-Command       | Description
-------------- | -------------------------------------------------------------------------------------------------
-Call          | Content Cell 12
-CD and CHDIR  | change the current working directory
-CHKDSK        | change the current working directory
 
+[List of DOS commands](https://technet.microsoft.com/library/bb490890.aspx)
 ---
 ###Batch file
 
