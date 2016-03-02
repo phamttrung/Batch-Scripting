@@ -11,7 +11,7 @@ Echo abc
 ```
 
 ---
-###Batch commands
+###DOS commands
 
 ---
 ###Batch file
